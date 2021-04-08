@@ -7,6 +7,7 @@
 - ✏️ I also write blog on [Blogging for Geeks]("https://bloggingforgeeks.com/" "Blogging for Geeks")
 - 🎯 I am open for collaborations in Machine Learning and Data Science domains.
 ***********
-**You Can Connect Me On**:
-************
-- LinkedIn: https://bit.ly/3akOo6n
+**You Can Contact Me On**:
+***********
+LinkedIn: https://bit.ly/3akOo6n
+Email: bhvaikjain@gmail.com
