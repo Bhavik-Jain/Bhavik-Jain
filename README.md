@@ -9,5 +9,5 @@
 ***********
 **You Can Contact Me On**:
 ***********
-LinkedIn: https://bit.ly/3akOo6n
-Email: bhvaikjain@gmail.com
+- LinkedIn: https://bit.ly/3akOo6n
+- Email: bhvaikjain@gmail.com
