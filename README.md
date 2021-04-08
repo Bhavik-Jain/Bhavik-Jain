@@ -1,5 +1,4 @@
 # Hi, I’m Bhavik-Jain
-********
 - 👀 Machine Learning and Data Science Enthusiast.
 - 🎓 Currently Pursuing **Master of Computer Applications** from **Sinhgad Institute of Management, Pune**.
 - 💻 I’m looking for Internship in **Machine Learning** domain.
