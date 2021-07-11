@@ -1,7 +1,7 @@
 # Hi, I’m Bhavik-Jain
-- 👀 Machine Learning and Data Science Enthusiast.
+- 👀 Skilled in Django, React, Machine Learning, and Data Analysis.
 - 🎓 Currently Pursuing **Master of Computer Applications** from **Sinhgad Institute of Management, Pune**.
-- 💻 I’m looking for Internship in **Machine Learning** domain.
+- 💻 I’m looking for Internship as a **Python Developer**.
 - ✏️ I also write blog on [Blogging for Geeks]("https://bloggingforgeeks.com/" "Blogging for Geeks")
 - 🎯 I am open for collaborations in Machine Learning and Data Science domains.
 - 📜 Scroll Down to see my Pinned Repositories.
