@@ -5,10 +5,6 @@
 - ✏️ I also write blogs on [Blogging for Geeks]("https://bloggingforgeeks.com/" "Blogging for Geeks")
 - 🎯 I am open for collaborations in Full stack Roles in Django.
 - 📜 Scroll Down to see my Pinned Repositories.
-***********
-**Lets Connect**:
-***********
-```<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bhvaikjain" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhvaikjain?trk=profile-badge">Bhavik jain</a></div> ```
 
 
 ***********
