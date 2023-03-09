@@ -1,8 +1,7 @@
 # Hi, I’m Bhavik-Jain
-- 👀 Skilled in Python, Django, Flask.
-- 🎓 Currently Pursuing **Master of Computer Applications** from **Sinhgad Institute of Management, Pune**.
-- 💻 I’m looking for Internship for **Web Developer** role.
-- ✏️ I also write blogs on [Blogging for Geeks]("https://bloggingforgeeks.com/" "Blogging for Geeks")
+- 👀 Skilled in Python, Django, React Native.
+- 🎓 **Master of Computer Applications** from **Sinhgad Institute of Management, Pune**.
+- 💻 Currrently working as a **Full Stack Developer**.
 - 🎯 I am open for collaborations in Full stack Roles in Django.
 - 📜 Scroll Down to see my Pinned Repositories.
 
